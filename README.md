@@ -16,6 +16,3 @@ The purpose of the Matlab simulation was to calculate the capacity and power of 
 
 9. Average current for each actuator
 10. Peak power reduction through supercaps 
-
-## Contact 
-Reach out to hassel@campus.tu-berlin.de 
